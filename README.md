@@ -1,5 +1,4 @@
 # GA_Parameter_Testing
-Python code used to test the performance of a genetic algorithm used to solve a mock power distribution planning problem.
 
 Thesis Abstract
 
